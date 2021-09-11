@@ -28,5 +28,13 @@ There are multiple functions that extend the functionality of the code.
 -	A uncertainty analysis which will calculate the risk for affected areas. 
 
 
-
+## Team
+- Íñigo Basterretxea Jacob
+- Zhendan Shang
+- Bálint Nyakas
+- Haowen Wang
+- Andrea Pozzetti
+- Jens Bauer
+- Michael Odwor Obafemi Hezekiah
+- Siqi Ma
 
